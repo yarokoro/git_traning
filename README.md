@@ -1,4 +1,4 @@
 # git_traning
 
 * first change
-* yarokoro
+* will be merged
